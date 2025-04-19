@@ -12,7 +12,7 @@ This project presents an intelligent spam detection system built using state-of-
 
 ## ⚠️ Note
 
-The trained models used in this project were saved on a university machine that I currently don't have access to. However, the complete source code, preprocessing steps, and model training logic are fully available here for demonstration purposes.
+The trained models used in this project were saved on a university machine that I currently don’t have access to. However, I may regain access in the future. In the meantime, the complete source code, preprocessing steps, and model training logic are fully available here for demonstration purposes.
 
 ## 📚 Technologies
 
